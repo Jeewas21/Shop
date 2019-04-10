@@ -1,0 +1,29 @@
+{
+  "name": "js-simple-rest-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/LehaTugarin/node-js-simple-rest-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/LehaTugarin/node-js-simple-rest-api/issues"
+  },
+  "homepage": "https://gitlab.com/LehaTugarin/node-js-simple-rest-api#readme",
+  "dependencies": {
+    "atob": "^2.1.2",
+    "body-parser": "^1.18.3",
+    "cryptr": "^4.0.2",
+    "express": "^4.16.4",
+    "index.js": "0.0.3",
+    "jsonwebtoken": "^8.5.1",
+    "mysql": "^2.16.0",
+    "request": "^2.88.0"
+  }
+}
